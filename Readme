@@ -1,0 +1,5 @@
+README
+
+Github Repository for RESTful API case study. 
+This is SprinBoot based REST API built on Gradle. 
+The backend NoSQL database used is CouchDB. The couch db database name I used is "product_price".
